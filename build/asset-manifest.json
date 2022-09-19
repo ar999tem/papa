@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/papa/static/css/main.bb0535c6.css",
+    "main.js": "/papa/static/js/main.dbb61721.js",
+    "static/css/718.162b80a3.chunk.css": "/papa/static/css/718.162b80a3.chunk.css",
+    "static/js/718.2a4a8ce5.chunk.js": "/papa/static/js/718.2a4a8ce5.chunk.js",
+    "static/css/512.6c56b9b7.chunk.css": "/papa/static/css/512.6c56b9b7.chunk.css",
+    "static/js/512.2e63ed06.chunk.js": "/papa/static/js/512.2e63ed06.chunk.js",
+    "static/media/gif": "/papa/static/media/9635606222c8cdaf02ec293daa4d9129.e3492945714b10ab65f7.gif",
+    "static/media/artworks-000650542942-hkw8sb-t500x500.jpg": "/papa/static/media/artworks-000650542942-hkw8sb-t500x500.80899a0dab7943655989.jpg",
+    "index.html": "/papa/index.html",
+    "main.bb0535c6.css.map": "/papa/static/css/main.bb0535c6.css.map",
+    "main.dbb61721.js.map": "/papa/static/js/main.dbb61721.js.map",
+    "718.162b80a3.chunk.css.map": "/papa/static/css/718.162b80a3.chunk.css.map",
+    "718.2a4a8ce5.chunk.js.map": "/papa/static/js/718.2a4a8ce5.chunk.js.map",
+    "512.6c56b9b7.chunk.css.map": "/papa/static/css/512.6c56b9b7.chunk.css.map",
+    "512.2e63ed06.chunk.js.map": "/papa/static/js/512.2e63ed06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb0535c6.css",
+    "static/js/main.dbb61721.js"
+  ]
+}
